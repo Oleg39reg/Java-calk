@@ -7,6 +7,10 @@ public class Main {
         long myLong =784684333; // 64-бита инфы
         double myDouble = 738382.32; //64-бита инфы
         float myFloat = 3213.4f; // 32-бита инфы добавить "f" при дробных числах
+
+        char a = 'a';
+        boolean b = true;
+        byte myByte = 100; // -128  128
         System.out.println(myInt+nextInt+myShort+myLong); //метод с параметром в виде имени переменной
     }
 }
